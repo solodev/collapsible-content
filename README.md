@@ -3,7 +3,7 @@ Adding collapsible content to your website provides a more interactive user expe
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Adding Collapsible Content to your Website with Boostrap}(https://www.solodev.com/blog/web-design/adding-collapsible-content-to-your-website-with-bootstrap.stml) article.
+For detailed instructions, view Solodev's [Adding Collapsible Content to your Website with Boostrap](https://www.solodev.com/blog/web-design/adding-collapsible-content-to-your-website-with-bootstrap.stml) article.
 
 ## Demo
 
